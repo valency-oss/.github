@@ -6,7 +6,7 @@ This organization hosts the public, MIT-licensed surface area of [Valency](https
 
 | Repo | What it is |
 |---|---|
-| [`valency-plugin`](https://github.com/valency-oss/valency-plugin) | Claude Code plugin: skills + manifest |
+| [`valency-claude-plugin`](https://github.com/valency-oss/valency-claude-plugin) | Claude Code plugin: skills + manifest |
 | [`valency-gemini-extension`](https://github.com/valency-oss/valency-gemini-extension) | Gemini CLI extension installer |
 | [`valency-gemini-skills`](https://github.com/valency-oss/valency-gemini-skills) | Gemini CLI skills + commands |
 
