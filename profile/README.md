@@ -10,8 +10,6 @@ This organization hosts the public, MIT-licensed surface area of [Valency](https
 | [`valency-gemini-extension`](https://github.com/valency-oss/valency-gemini-extension) | Gemini CLI extension installer |
 | [`valency-gemini-skills`](https://github.com/valency-oss/valency-gemini-skills) | Gemini CLI skills + commands |
 
-The Valency MCP server, ingestion pipelines, corpus data, and product backend are not open source.
-
 ## Policies
 
 - **License:** MIT, on every repo. See each repo's `LICENSE`.
