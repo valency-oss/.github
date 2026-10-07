@@ -12,7 +12,7 @@ This organization hosts the public, open-source surface area of [Valency](https:
 
 ## Policies
 
-- **License:** MIT by default. Some projects use Apache-2.0 instead, e.g. OCRS, to match the license other standards use. Each repo's `LICENSE` is authoritative.
+- **License:** MIT by default. Some projects use Apache-2.0 instead. Each repo's `LICENSE` is authoritative.
 - **Contributing:** [CONTRIBUTING.md](../CONTRIBUTING.md) — public source posture; PRs generally not solicited.
 - **Trademark:** [TRADEMARK.md](../TRADEMARK.md) — code is permissive, brand is not.
 - **Security:** [SECURITY.md](../SECURITY.md) — private disclosure to security@valency.io.
