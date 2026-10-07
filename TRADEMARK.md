@@ -2,7 +2,7 @@
 
 "Valency", the Valency wordmark, and the Valency logo are trademarks of Valency Systems Inc.
 
-The MIT License grants you broad rights to use, modify, and redistribute Valency's open-source code. **It does not grant you any rights in our trademarks.** Trademark protection is governed by trademark law, not by software licensing, and is independent of any open-source license we publish under.
+Our open-source licenses (MIT and Apache-2.0) grant you broad rights to use, modify, and redistribute Valency's open-source code. **It does not grant you any rights in our trademarks.** Trademark protection is governed by trademark law, not by software licensing, and is independent of any open-source license we publish under.
 
 ## What you may do
 
@@ -20,11 +20,11 @@ The MIT License grants you broad rights to use, modify, and redistribute Valency
 
 ## Forks
 
-You are welcome to fork our public repos under the MIT License. When you do:
+You are welcome to fork our public repos under their open-source licenses. When you do:
 
 - Rename your fork. Do not call it "Valency [anything]".
 - Update the README to make clear your fork is unaffiliated.
-- Keep our copyright line in `LICENSE` (the MIT License requires this) and add your own copyright line below it for your modifications.
+- Keep our copyright and license notices, including any `NOTICE` file in Apache-2.0 repos (both licenses require this), and add your own copyright line for your modifications.
 
 ## Borderline cases
 

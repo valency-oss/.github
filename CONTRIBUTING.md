@@ -16,8 +16,8 @@ The narrow exception is a **genuine bug fix with a clear reproduction**. If you'
 
 ## If you do open a PR
 
-By submitting a contribution, you license it to Valency Systems Inc. and to every downstream user under the project's MIT License (inbound = outbound). Keep the change minimal — just the fix, no surrounding cleanup.
+By submitting a contribution, you license it to Valency Systems Inc. and to every downstream user under the project's license, MIT or Apache-2.0 as stated in its `LICENSE` (inbound = outbound). Keep the change minimal — just the fix, no surrounding cleanup.
 
 ## Forks
 
-These repos are MIT-licensed. You can fork, modify, and redistribute freely, subject to the [trademark policy](./TRADEMARK.md). We don't merge most upstream contributions back.
+These repos are MIT- or Apache-2.0-licensed; check each repo's `LICENSE`. You can fork, modify, and redistribute freely, subject to the [trademark policy](./TRADEMARK.md). We don't merge most upstream contributions back.
