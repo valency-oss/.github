@@ -1,15 +1,12 @@
 # Valency
 
-This organization hosts the public, open-source surface area of [Valency](https://valency.io) — the agent skills and extensions that connect Claude Code, Gemini, and other AI tools to the Valency research corpus, and open standards for research data.
+This organization hosts the public, open-source surface area of [Valency](https://valency.io) — the plugins and research skills that connect AI assistants to the Valency research corpus through Valency Bond.
 
 ## Public projects
 
 | Repo | What it is |
 |---|---|
-| [`valency-claude-plugin`](https://github.com/valency-oss/valency-claude-plugin) | Claude Code plugin: skills + manifest |
-| [`valency-gemini-extension`](https://github.com/valency-oss/valency-gemini-extension) | Gemini CLI extension installer |
-| [`valency-gemini-skills`](https://github.com/valency-oss/valency-gemini-skills) | Gemini CLI skills + commands |
-| [`open-canonical-review-schema`](https://github.com/valency-oss/open-canonical-review-schema) | Open Canonical Review Schema (OCRS): a JSON Schema and Python mappers for peer reviews written by people, AI systems or both. Contributions welcome under its own [CONTRIBUTING.md](https://github.com/valency-oss/open-canonical-review-schema/blob/main/CONTRIBUTING.md) |
+| [`valency-connectors`](https://github.com/valency-oss/valency-connectors) | Valency Bond plugins for Claude Code, Codex and ChatGPT, GitHub Copilot CLI, Cursor, Grok, Antigravity, Kiro and VS Code, plus seven guided research skills |
 
 ## Policies
 
